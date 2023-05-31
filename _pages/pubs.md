@@ -4,6 +4,8 @@ author_profile: true
 classes: wide
 ---
 
+My CV can be found [**here**](/assets/docs/CV_Samuel_Lai.pdf).
+
 <h3><u>
 	Publications
 </u> </h3>
