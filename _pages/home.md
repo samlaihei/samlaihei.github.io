@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/pbd.jpg
   overlay_filter: 0.4
   caption: "Photo credit: [**NASA/JPL-Caltech**](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2)"
-excerpt: "\"Consider again that dot. That's here. That's home. That's us.\" ~Carl Sagan"
+excerpt: "\"Consider again that dot. That's here. That's home. That's us.\" <br/> ~Carl Sagan"
 classes: wide
 ---
 
