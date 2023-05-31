@@ -16,7 +16,7 @@ classes: wide
 </figure>
 
 
-Greetings, I'm an astrophysics PhD candidate working with [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c) 
+<font size=”2”> Greetings, I'm an astrophysics PhD candidate working with [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c) 
 and [**Dr. Christopher Onken**](https://researchers.anu.edu.au/researchers/onken-c) at the Research School of Astronomy & Astrophysics, 
 based on Mt. Stromlo Observatory of Australian National University, Canberra, Australia. 
 
@@ -30,6 +30,6 @@ Working with such fluid models in tandem with general relativistic radiative tra
 we can predict both the integrated flux and spatially resolved image. 
 Such codes are fully parallelised and run on powerful supercomputers.
 
-For more about my research, visit the [**Research**][1] page.
-
+For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/CV_Samuel_Lai.pdf).
+</font>
 [1]: /research/
