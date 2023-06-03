@@ -39,7 +39,7 @@ feature_row:
 - image_path: /assets/images/harmonic.jpg
   title: "Gravitational Wave Orbital Decay"
   excerpt: "In this report, we numerically estimate the orbital decay of two bodies in a close binary system due to gravitational waves.
-  This result is consistent with the observed decay rate of a binary pulsar system. We also study the effect further by harmonic analysis and separating by orbital eccentricity.
+  This result is consistent with the observed decay rate of a binary pulsar system. We also study the effect further through Fourier decomposition and separating by orbital eccentricity.
   See [**report**](/assets/docs/CUHK_report.pdf) for more details."
   # url: /cuhkreport/
   # btn_class: "btn--primary"
