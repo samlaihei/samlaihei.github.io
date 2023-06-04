@@ -22,6 +22,14 @@ feature_row:
   We find that the broad-line region metallicity is super-solar even up to high redshifts, suggesting rapid enrichment scenarios in the early universe."
   # url: /blrZ/
   # btn_class: "btn--primary"
+- image_path: /assets/images/WDexcess.jpg
+  title: "White Dwarfs with Infrared Excess"
+  excerpt: "For this work, we study images of 300+ white dwarfs, where the images are obtained from
+  Gemini Observatory North/South and Spitzer Space Telescope. By extracting photometry from the image data, we study
+  white dwarfs with infrared excess indicative of an irradiated dust disc, which are formed by the tidal disruption of 
+  extrasolar planetesimals."
+  # url: /WDexcess/
+  # btn_class: "btn--primary"
 - image_path: /assets/images/twelve_plot.png
   title: "Emission from Black Hole Event Horizon"
   excerpt: "This work uses fully three-dimensional and self-consistent general relativistic magnetohydrodynamic simulation fluid models with general-relativistic radiative transfer 
