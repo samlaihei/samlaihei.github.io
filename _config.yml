@@ -72,9 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samlaihei"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=cUAUnsIAAAAJ"
+#    - label: "Google Scholar"
+#      icon: "fab fa-fw fa-google-scholar"
+#      url: "https://scholar.google.com/citations?hl=en&user=cUAUnsIAAAAJ"
 
 footer:
   links:
