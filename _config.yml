@@ -72,6 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samlaihei"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=cUAUnsIAAAAJ"
 
 footer:
   links:
@@ -84,9 +87,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samlaihei"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?hl=en&user=cUAUnsIAAAAJ"
       
 atom_feed:
   hide: true
