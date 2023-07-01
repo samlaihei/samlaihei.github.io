@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/IMG_5820.jpg
+  overlay_image: /assets/images/banner.jpeg
   overlay_filter: 0.4
   caption: ""
 excerpt: ""
