@@ -9,7 +9,7 @@ My CV can be found [**here**](/assets/docs/CV_Samuel_Lai.pdf).
 <h3><u>
 	Publications
 </u> </h3>
-The best way to keep track of my publications is to use my [**ORCiD**](https://orcid.org/0000-0001-9372-4611) link.
+The best way to keep track of my publications is to use my [**ORCiD**](https://orcid.org/0000-0001-9372-4611) link of [**ADS Library**](https://ui.adsabs.harvard.edu/public-libraries/u2AFxmutSXqMPQvNofKsLQ).
 
 <h9><u>
 	Selected first-author publications
