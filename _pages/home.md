@@ -16,8 +16,8 @@ classes: wide
 </figure>
 
 
-Greetings, I'm an astrophysics postdoctoral fellow working with [**Dr Nithyanandan Thyagarajan**](https://people.csiro.au/t/n/nithyanandan-thyagarajan), [**Dr Ivy Wong**](https://people.csiro.au/w/i/ivy-wong), [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c),
-and [**Dr. Christopher Onken**](https://researchers.anu.edu.au/researchers/onken-c) at the Commonwealth Scientific and Industrial Research Organisation based in Kensington, Western Australia.
+Greetings, I'm an astrophysics postdoctoral fellow working with [**Dr. Nithyanandan Thyagarajan**](https://people.csiro.au/t/n/nithyanandan-thyagarajan), [**Dr. Ivy Wong**](https://people.csiro.au/w/i/ivy-wong), [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c),
+and [**Dr. Christopher Onken**](https://researchers.anu.edu.au/researchers/onken-c) at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) based in Kensington, Western Australia.
 
 My research revolves around accretion onto compact objects, namely black holes and white dwarfs,
 but my current focus is on moderately high-redshift ultraluminous quasars. 
