@@ -6,6 +6,11 @@ intro:
   - excerpt: 'My research focuses on understanding the observed spectroscopic properties of accretion onto compact objects and how they can be used to characterise the object as well as its environment. '
 
 feature_row:
+- image_path: /assets/images/GenDIReCT.jpg
+  title: "Deep Learning VLBI Image Reconstruction"
+  excerpt: "We utilise advanced deep learning techniques to tackle the inverse problem of image reconstruction/deconvolution from sparsely sampled apertures characteristic of very-long baseling interferometry. Our results show that closure invariants, special calibration-independent interferometric quantities, can be leveraged to perform accurate and efficient hyperparameter-free image reconstruction."
+  # url: /imrec/
+  # btn_class: "btn--primary"
 - image_path: /assets/images/MgII.jpg
   title: "Characterising Black Hole Properties"
   excerpt: "We use established methods to characterise black holes in new data. 

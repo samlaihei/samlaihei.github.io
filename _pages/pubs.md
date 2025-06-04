@@ -11,6 +11,7 @@ My CV can be found [**here**](/assets/docs/CV_Samuel_Lai.pdf).
 </u> </h3>
 The best way to keep track of my publications is to use my [**ORCiD**](https://orcid.org/0000-0001-9372-4611) link or my [**ADS Library**](https://ui.adsabs.harvard.edu/public-libraries/u2AFxmutSXqMPQvNofKsLQ).
 
+<!-- 
 <h9><u>
 	Selected first-author publications
 </u> </h9>
@@ -25,9 +26,9 @@ The best way to keep track of my publications is to use my [**ORCiD**](https://o
 (2022; MNRAS, 513(2), 1801)
 1.  [**Infrared Excesses Around Bright White Dwarfs from Gaia and unWISE. II**](https://ui.adsabs.harvard.edu/abs/2021ApJ...920..156L/abstract) <br/>
 **Samuel Lai**, Erik Dennihy, Siyi Xu, Atsuko Nitta, Scot Kleinman, S.K. Leggett, Amy Bonsor, Simon Hodgkin, Alberto Rebassa-Mansergas, Laura K. Rogers  
-(2021; ApJ, 920(2), 156)
+(2021; ApJ, 920(2), 156) -->
 
-<h9><u>
+<!-- <h9><u>
 	Selected co-author publications
 </u> </h9>
 1.  [**AllBRICQS: The All-sky BRIght, Complete Quasar Survey**](https://ui.adsabs.harvard.edu/abs/2023PASA...40...10O/abstract) <br/>
@@ -41,4 +42,4 @@ Erik Dennihy, Siyi Xu, **Samuel Lai**, Amy Bonsor, J.C. Clemens, Patrick Dufour,
 (2020; ApJ, 905(1), 15)
 1.  [**Infrared Excesses around Bright White Dwarfs from Gaia and unWISE. I.**](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..127X/abstract) <br/>
 Siyi Xu, **Samuel Lai**, Erik Dennihy
-(2020; ApJ, 902(2), 127)
+(2020; ApJ, 902(2), 127) -->

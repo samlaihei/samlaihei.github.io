@@ -28,8 +28,8 @@ which attempt to model the accretion flow structure and magnetised dynamics arou
 Working with such fluid models in tandem with general relativistic radiative transfer, 
 we can predict both the integrated flux and spatially resolved image. 
 Such codes are fully parallelised and run on powerful supercomputers.
-My current research direction also heavily involves machine/deep learning to perform image reconstruction from
-sparse very-long baseline interferometry uv-coverage.
+My current research direction deep learning closure invariants to perform image reconstruction under the constraints of
+sparse very-long baseline radio interferometry aperture coverage.
 
 For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/CV_Samuel_Lai.pdf).
 
