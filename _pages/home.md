@@ -30,6 +30,7 @@ we can predict both the integrated flux and spatially resolved image.
 Such codes are fully parallelised and run on powerful supercomputers.
 My current research direction concerns deep learning closure invariants to perform image reconstruction under the constraints of
 sparse very-long baseline radio interferometry aperture coverage.
+I strongly believe in open-source research and often publish my data or code on publicly accessible [**github repositories**](https://github.com/samlaihei).
 
 For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/CV_Samuel_Lai.pdf).
 
