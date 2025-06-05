@@ -17,16 +17,16 @@ feature_row:
   We also compare established methods to the results from novel methods that we develop and are continuously testing.
   Through this research, we hope to better understand the unified model of active galactic nuclei and construct robust samples of
   well-characterised black holes to study their evolution and interaction with their host galaxies. We also focus on ultraluminous quasars
-  at moderately high redshifts."
+  at moderately high redshifts. Refer to [**PhD Thesis**](/assets/docs/PhD.pdf) for details."
   # url: /bhprops/
   # btn_class: "btn--primary"
-- image_path: /assets/images/Z_Mbh.jpg
-  title: "Quasar Broad-line Region Metallicity"
-  excerpt: "Using metallicity-sensitive emission-line ratios, we study the chemical abundance in the quasar broad-line region.
-  Illuminated by the bright light of the quasar, we study how the metallicity is sensitive to the black hole properties and to redshift.
-  We find that the broad-line region metallicity is super-solar even up to high redshifts, suggesting rapid enrichment scenarios in the early universe."
-  # url: /blrZ/
-  # btn_class: "btn--primary"
+# - image_path: /assets/images/Z_Mbh.jpg
+#   title: "Quasar Broad-line Region Metallicity"
+#   excerpt: "Using metallicity-sensitive emission-line ratios, we study the chemical abundance in the quasar broad-line region.
+#   Illuminated by the bright light of the quasar, we study how the metallicity is sensitive to the black hole properties and to redshift.
+#   We find that the broad-line region metallicity is super-solar even up to high redshifts, suggesting rapid enrichment scenarios in the early universe."
+#   # url: /blrZ/
+#   # btn_class: "btn--primary"
 - image_path: /assets/images/WDexcess.jpg
   title: "White Dwarfs with Infrared Excess"
   excerpt: "For this work, we study images of 300+ white dwarfs, where the images are obtained from
