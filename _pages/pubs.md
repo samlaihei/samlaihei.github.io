@@ -11,6 +11,16 @@ My CV can be found [**here**](/assets/docs/CV_Samuel_Lai.pdf).
 </u> </h3>
 The best way to keep track of my publications is to use my [**ORCiD**](https://orcid.org/0000-0001-9372-4611) link or my [**ADS Library**](https://ui.adsabs.harvard.edu/public-libraries/u2AFxmutSXqMPQvNofKsLQ).
 
+<h3><u>
+	Public Appearances
+</u> </h3>
+
+[**Articles**](/assets/docs/MonitorReport-J0529_compressed.pdf) on ultra-luminous quasar J0529-4351, discovery of the most luminous known quasar.
+
+[**Articles**](/assets/docs/MonitorReport-J1144_compressed.pdf) on the most luminous quasar in the last 9 billion years of the universe's history.
+
+Total of nearly 2,000 media items across TV, radio, print, and online, reaching a potential audience of 120+ million.
+
 <!-- 
 <h9><u>
 	Selected first-author publications
