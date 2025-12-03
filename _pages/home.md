@@ -19,7 +19,7 @@ classes: wide
 Greetings, I'm an astrophysics postdoctoral fellow working with [**Dr. Nithyanandan Thyagarajan**](https://people.csiro.au/t/n/nithyanandan-thyagarajan), [**Dr. Ivy Wong**](https://people.csiro.au/w/i/ivy-wong), [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c),
 and [**Dr. Christopher Onken**](https://researchers.anu.edu.au/researchers/onken-c) at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) based in Kensington, Western Australia.
 
-My research is primiarily concerned with accretion around compact objects, namely black holes and white dwarfs.
+My research is primarily concerned with accretion around compact objects, namely black holes and white dwarfs.
 The focus of my PhD thesis was on characterising the properties and demographics of moderately high-redshift ultraluminous quasars. 
 This involved submitting proposals to collect spectroscopic observations and analysing the spectra 
 to study the black hole and its extreme environment. 
